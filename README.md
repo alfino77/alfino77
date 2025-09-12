@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @alfino77
-- 👀 I’m interested in softaware development
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on programming issues
-- 📫 ig acc. _m5_alfino
+Networking, Django Backend Developer, AI & Machine Learning
+
 
 
 <!---
