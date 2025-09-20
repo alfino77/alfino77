@@ -1,4 +1,11 @@
-#Looking to collaborate: Networking, Embedded systems, Django, AI & Machine Learning
+# Hi, I'm Ahmed 👋
+
+💻 Computer Engineering Student | 🌐 Networking Enthusiast | 🤖 AI & IoT Explorer
+
+## ⚡ Tech Stack
+- Python | Django | Flask | Streamlit
+- Networking | Switch | Router | Firewall | Server
+- Raspberry Pi | ESP32 | Arduino
 
 
 
