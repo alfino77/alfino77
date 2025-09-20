@@ -1,4 +1,4 @@
-Networking, Django Backend Developer, AI & Machine Learning
+#Looking to collaborate: Networking, Embedded systems, Django, AI & Machine Learning
 
 
 
